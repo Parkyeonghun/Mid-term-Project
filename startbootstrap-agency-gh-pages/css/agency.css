@@ -1,10 +1,10 @@
 /*!
- * Start Bootstrap - Agency v5.0.3 (https://startbootstrap.com/template-overviews/agency)
+ * Start Bootstrap - Agency v5.0.4 (https://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2018 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
-body {
+ body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
@@ -86,18 +86,9 @@ section h3.section-subheading {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 
-::-moz-selection {
-  background: #fed136;
-  text-shadow: none;
-}
-
 ::selection {
   background: #fed136;
   text-shadow: none;
-}
-
-img::-moz-selection {
-  background: transparent;
 }
 
 img::selection {
@@ -176,7 +167,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("https://usatcelticswire.files.wordpress.com/2019/01/gettyimages-1074814068.jpg?w=1000&h=600&crop=1");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -445,8 +436,8 @@ header.masthead .intro-text .intro-heading {
   position: absolute;
   z-index: 100;
   left: 0;
-  width: 90px;
-  height: 90px;
+  width: 80px;
+  height: 80px;
   margin-left: 0;
   text-align: center;
   color: white;
